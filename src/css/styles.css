@@ -8,6 +8,7 @@ body {
 }
 p {
     font-family: 'Zen Dots', cursive;
+    color: black;
 }
 H1 {
     text-align: center;
@@ -19,4 +20,8 @@ footer{
 }
 footer a{
     text-decoration: none;
+}
+h5 {
+    color: black;
+    font-family: 'Kenia', cursive;
 }
